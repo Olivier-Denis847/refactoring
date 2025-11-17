@@ -1,3 +1,4 @@
+ed6b060 Task 2.4 - Extracted loops into helper methods in StatementPrinter.java
 be8f6b4 Task 2.3 - Removed a local variable from StatementPrinter.java
 e1bb5fb Task 2.2 - Made a getVolumeCredits helper in StatementPrinter.java
 0bb1fec Task 2.1 - Refactored StatementPrinter.java
