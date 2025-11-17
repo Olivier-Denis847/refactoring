@@ -1,3 +1,4 @@
+e1bb5fb Task 2.2 - Made a getVolumeCredits helper in StatementPrinter.java
 0bb1fec Task 2.1 - Refactored StatementPrinter.java
 80c6594 Made a helper method in StatementPrinter.java
 1d66c10 Task 1.2 - Added a git log
